@@ -1,0 +1,2 @@
+# power-cli
+wso-powercli
